@@ -165,6 +165,21 @@ h1 {
   }
 }
 
+.skills {
+  height: 50vh;
+  background-color: colors.$secondaryColor;
+  border-top: 1px solid colors.$borderColor;
+  border-bottom: 1px solid colors.$borderColor;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  h1 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+}
+
 #contact {
   padding: 1rem;
   width: 60%;
